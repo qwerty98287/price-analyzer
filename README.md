@@ -8,5 +8,6 @@ Task.html -  скрипт, который можно посмотреть чер
 Task.ipynb - тот же скрипт, но в среде разработки.
 Requirments - список необходимых библиотек.
 Preproc.Pickle и model.pickle - чекпоинты модели.
+Запуск: pip install -r requirements.txt, дальше выполнить ячейки в *.ipynb.
 
-## Заголовок 2
+
